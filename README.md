@@ -1,4 +1,4 @@
-# Getting Started with Mopuntain bike
+# Getting Started with BD-TURISM
 
 This site is about [BD-TURISM](https://bd-turism.web.app/).
 
